@@ -36,7 +36,7 @@ MODEL_SAVE_PATH = "/root/autodl-tmp/mind_small/bert_nrms_model"
 BERT_MODEL = "/root/autodl-tmp/bert-base-uncased"
 HF_MIRROR = "https://hf-mirror.com"
 
-EPOCHS = 3
+EPOCHS = 5
 BATCH_SIZE = 32
 LR = 2e-5
 WARMUP_RATIO = 0.1

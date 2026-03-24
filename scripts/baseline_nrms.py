@@ -33,7 +33,7 @@ HIS_SIZE       = 50
 NPRATIO        = 4
 DROPOUT        = 0.2
 
-EPOCHS         = 1      # 1 epoch for quick verification
+EPOCHS         = 5
 BATCH_SIZE     = 64
 LR             = 1e-4
 SEED           = 42
